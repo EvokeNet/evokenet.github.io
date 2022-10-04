@@ -12,7 +12,7 @@ Para acessar as configurações vá para Administração do site > Aparência > 
 
 Como pode ser visto na imagem acima, as configurações do tema são agrupadas em 4 abas:
 
-- [Geral](./moove/settings/general)
-- [Configurações avançadas](./moove/settings/advanced)
-- [Página inicial](./moove/settings/frontpage)
-- [Rodapé](./moove/settings/footer)
+- Geral
+- Configurações
+- Página
+- Rodapé

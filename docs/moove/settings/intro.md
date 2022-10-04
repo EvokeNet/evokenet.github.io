@@ -12,7 +12,7 @@ Para acessar as configurações vá para Administração do site > Aparência > 
 
 Como pode ser visto na imagem acima, as configurações do tema são agrupadas em 4 abas:
 
-- [General](./general)
-- [Advanced](./advanced)
-- [Frontpage](./frontpage)
-- [Footer](./footer)
+- General
+- Advanced
+- Frontpage
+- Footer
