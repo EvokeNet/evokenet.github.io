@@ -4,42 +4,42 @@ sidebar_position: 2
 
 # General
 
-Nesta aba estão configurações gerais aplicadas em todas as partes do site ou em apenas algumas páginas específicas, abaixo é explicado cada configuração individualmente.
+This tab has general settings that are applied to all parts of the site or just some specific pages, below each setting is explained individually.
 
 ### Logo
 
-A logo é exibida no topo do site, algumas outras páginas também exibem a logo, como a página de login.
+The logo is displayed at the top of the site, some other pages also display the logo, such as the login page.
 
 ### Favicon
 
-Favicon é a imagem exibida na aba do seu navegador, ao lado da url do site.
+Favicon is the image displayed in your browser tab, next to the website URL.
 
 ### Preset
 
-Presets são configurações pré-definidas de customização do tema, é possível adicionar seu próprio arquivo de preset no campo seguinte.
+Presets are predefined theme customization settings, you can add your own preset file in the next field.
 
 ### Arquivos de preset adicionais
 
-Preset adicional que após inserido aqui fica disponível no campo anterior para ser escolhido.
+Additional preset that, after being inserted here, is available in the previous field to be chosen.
 
 ### Fundo de página do login
 
-Imagem exibida no fundo da página de logi do site.
+Background image displayed on the login page.
 
 ### Cor da marca
 
-Esta é a cor principal do site. Esta cor é aplicado nos elementos principais como a barra de navegação, os botões de ação principal(btn-primary), links e outros.
+This is the main color of the site. This color is applied to main elements like the navigation bar, main action buttons(btn-primary), links, and others.
 
 ### Cor do menu secundário
 
-Caso você não goste de usar a cor da marca como cor do menu secundário, você pode configurar uma cor alternativa para ele.
+If you don't like to use the brand color as the secondary menu background color, you can set an alternate color here.
 
 ### Fonte do site
 
-Agora é possível escolher uma fonte para seu site. Atenção, as fontes são carregadas do site do Google Fontes, portanto seu site precisa de acesso externo à internet para ser possível visualizar a fonte escolhida.
+You can now choose a font for your site. Attention, the fonts are loaded from the Google Fonts site, so your site needs to have external internet access to be able to load the chosen font.
 
 ### Enable course index
 
-O Moodle 4.0 possui agora a funcionalidade de índice do curso, que é uma funcionalidade que exibe todos os tópicos e atividades do curso num menu lateral esquerdo. Caso queira, você pode desabilitar/habilitar esta funcionalidade.
+Moodle 4.0 has a course index feature, which is a feature that displays all course topics and activities in a left-side menu. If you want, you can enable/disable this feature.
 
-OBS: O formato de curso usado precisa implementar a funcionalidade de índice do curso. Caso você esteja usando um formato de curso que não implementa essa funcionalidade, o índice do curso não será exibido mesmo que você deixe-o habilitado aqui.
+**NOTE:** The course format used in your course must implement the course index functionality. If you are using a course format that does not implement this functionality, the course index will not be displayed even if you leave it enabled here.

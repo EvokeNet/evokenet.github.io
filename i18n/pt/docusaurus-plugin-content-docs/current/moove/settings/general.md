@@ -24,7 +24,7 @@ Preset adicional que após inserido aqui fica disponível no campo anterior para
 
 ### Fundo de página do login
 
-Imagem exibida no fundo da página de logi do site.
+Imagem exibida no fundo da página de login do site.
 
 ### Cor da marca
 
@@ -36,10 +36,10 @@ Caso você não goste de usar a cor da marca como cor do menu secundário, você
 
 ### Fonte do site
 
-Agora é possível escolher uma fonte para seu site. Atenção, as fontes são carregadas do site do Google Fontes, portanto seu site precisa de acesso externo à internet para ser possível visualizar a fonte escolhida.
+Agora é possível escolher uma fonte para seu site. Atenção, as fontes são carregadas do site do Google Fontes, portanto seu site precisa de acesso externo à internet para ser possível carregar a fonte escolhida.
 
 ### Enable course index
 
-O Moodle 4.0 possui agora a funcionalidade de índice do curso, que é uma funcionalidade que exibe todos os tópicos e atividades do curso num menu lateral esquerdo. Caso queira, você pode desabilitar/habilitar esta funcionalidade.
+O Moodle 4.0 possui agora a funcionalidade de índice do curso, que é uma funcionalidade que exibe todos os tópicos e atividades do curso num menu lateral esquerdo. Caso queira, você pode habilitar/desabilitar esta funcionalidade.
 
-OBS: O formato de curso usado precisa implementar a funcionalidade de índice do curso. Caso você esteja usando um formato de curso que não implementa essa funcionalidade, o índice do curso não será exibido mesmo que você deixe-o habilitado aqui.
+**OBS:** O formato de curso usado precisa implementar a funcionalidade de índice do curso. Caso você esteja usando em seu curso um formato de curso que não implementa essa funcionalidade, o índice do curso não será exibido mesmo que você deixe-o habilitado aqui.
