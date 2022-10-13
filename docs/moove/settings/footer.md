@@ -60,7 +60,7 @@ You can configure the application page URL, by default this page is the Moodle A
 
 `Site administration > General > Mobile app > Mobile appearance`.
 
-## Área à direita do rodapé
+## Footer right side
 
 The area on the right side is full dedicated to the Moodle APP.
 
@@ -68,4 +68,4 @@ In the case you have web services enabled on your Moodle site, your users will b
 
 By default, the icons has the link to the Moodle APP provided by Moodle HQ, but if you have a customized version of the app you can change the APPs IDS, for that, go to:
 
-`Site administration > General > Mobile app > Mobile appearance`..
+`Site administration > General > Mobile app > Mobile appearance`.
