@@ -2,74 +2,76 @@
 sidebar_position: 4
 ---
 
-# Página inicial
+# Frontpage
 
-O Moodle apresenta a página inicial em dois cenários, para usuários visitantes e para usuários logados. O tema Moove trata estas duas páginas de maneiras diferente.
+Moodle presents the homepage in two scenarios, for guest users and for logged in users. Moove presents these two scenarios differently.
 
-Para os usuários visitantes é apresentada uma página atrativa, como um hotsite, com a intenção de apresentar a instituição, os cursos e algumas informações interessantes.
+Guest users can view an attractive page, like a hotsite, with the intention of presenting the institution, the courses, and some interesting information.
 
 A página para usuários logadas apresenta informações interessantes para o usuário já cadastrado no curso, exibindo apenas aquilo que o administrador configurar em
 
-`Administração do site > Geral > Configurações da página principal`
+The page for logged in users presents interesting information for the user already registered in the platform, displaying only what the administrator configures in
 
-Vale lembrar que também é possível adicionar recursos na página inicial, como rótulos.
+`Site administration > General > Site home settings`
 
-### Desativar imagem de professores
+It is worth remembering that it is also possible to add features on the home page, such as labels.
+
+### Disable teachers picture
 
 Por padrão, o tema Moove exibe as imagens dos professores nos cards do curso, como você pode ver na imagem abaixo:
 
+By default, the Moove theme displays teacher images on course cards, as you can see in the image below:
+
 ![Moove course card](/img/theme_moove/frontpage1.png)
 
-Esta visualização pode ser incômoda caso você tenha muitos professores no curso. Por isso, o tema Moove oferece uma configuração para habilitar/desabilitar esta visualização de professores nos cards de curso.
+This view can be uncomfortable if you have many teachers in the course. Therefore, the Moove theme offers a setting to enable/disable this view of teachers in course cards.
 
 ![Moove course card setting](/img/theme_moove/frontpage2.png)
 
 ### Slideshow
 
-O tema tem um recurso de adicionar um slide show no seu site. Um slideshow é composto por uma image, um título e um texto de descrição.
+The theme has a feature to add a slideshow to your website. Moove slideshow has an image, a title and description text.
 
 ![Moove course card](/img/theme_moove/frontpage3.png)
 
-Para habilitar o slideshow é muito simples, você primeiro deve escolher a quantidade de slides desejada e então clicar em **salvar mudanças**.
+To enable the slideshow is very simple, you must first choose the number of slides you want and then click on **save changes**.
 
 ![Moove course card](/img/theme_moove/frontpage4.png)
 
-Após clicar em salvar, a página é recarregada e os novos campos serão exibidos na aba página inicial.
+After clicking save, the page is reloaded and the new fields will be displayed on the frontpage tab.
 
 ![Moove course card](/img/theme_moove/frontpage5.png)
 
-Adicione a imagem do slider, seu título e descrição. O campo descrição pode receber qualquer texto HTML, o que significa que você pode adicionar links, botões e etc.
+Add the slider image, title, and description. The description field can have any HTML text, which means you can add links, buttons, etc.
 
-### Exibir cartões de marketing da página inicial
+### Show front page marketing boxes
 
-Os cartões de marketing é um bloco onde você pode ter um texto, uma descrição, além de 4 blocos com imagem e texto. Você pode usar esta funcionalidade para realçar alguma característica única da sua plataforma.
+The marketing boxes is a block where you can have a text, a description, and 4 blocks with image and text. You can use this functionality to highlight some cool and unique features of your platform.
 
 ![Moove course card](/img/theme_moove/frontpage6.png)
 
-Para habilitar você deve selecionar Sim no campo e então clicar em **salvar mudanças**.
-
-Após salvar as mudanças os campos de configuração da área de cartões de marketing serão carregados.
+After saving the changes, the configuration fields of the marketing boxes will be loaded.
 
 ![Moove course card](/img/theme_moove/frontpage7.png)
 
-Os primeiros campos são relativos ao título e o conteúdo, localizados do lado esquerdo da sessão.
+The first fields are related to the title and the content, located on the left side of the session.
 
-Além disso é possível alterar a imagem, título e descrição de cada um dos 4 blocos.
+In addition, it is possible to change the image, title and description of each of the 4 blocks.
 
-### Números do site
+### Show site numberss
 
-A configuração **Mostrar números (informações) do site na página inicial** habilita/desabilita a exibição dos números de usuários e cursos da sua plataforma, além disso é possível também alterar a descrição dessa sessão.
+The setting **Show site numbers** enable/disable the display of the numbers of users and courses of your platform, in addition, it is also possible to change the description of this session.
 
 ![Moove course card](/img/theme_moove/frontpage8.png)
 
-### Perguntas do FAQ
+### FAQ questions
 
-É possível adicionar uma sessão de perguntas frequentes. Geralmente essa é uma boa área para já responder possíveis perguntas futuras de seus usuários.
+You can add an FAQ session. This is usually a good area to answer possible future questions from your users.
 
-Selecione quantas perguntas você deseja adicionar então clique em **salvar mudanças** para carregar os campos do formulário.
+Choose how many questions you want to add then click **save changes** to load the form fields.
 
-Se você não deseja as Perguntas Frequentes, apenas selecione 0.
+If you don't want the FAQ, just select 0.
 
 ![Moove course card](/img/theme_moove/frontpage9.png)
 
-Os campos relativos à funcionalidade de perguntas frequentes são simples e auto-explicativos, você precisa apenas digitar a pergunta e sua resposta.
+The fields related to the FAQ feature are simple and self-explanatory, you just need to type the question and its answer.

@@ -8,7 +8,7 @@ O Moodle apresenta a página inicial em dois cenários, para usuários visitante
 
 Para os usuários visitantes é apresentada uma página atrativa, como um hotsite, com a intenção de apresentar a instituição, os cursos e algumas informações interessantes.
 
-A página para usuários logadas apresenta informações interessantes para o usuário já cadastrado no curso, exibindo apenas aquilo que o administrador configurar em
+A página para usuários logados apresenta informações interessantes para o usuário já cadastrado na plataforma, exibindo apenas aquilo que o administrador configurar em
 
 `Administração do site > Geral > Configurações da página principal` 
 
