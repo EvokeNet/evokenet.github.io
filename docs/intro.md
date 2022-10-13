@@ -2,46 +2,18 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the documentation page of Evoke Project. Here are all instructions to install, configure and keep the project live.
 
-## Getting Started
+But before we start, do you already know Evoke project?
 
-Get started by **creating a new site**.
+## What is the Evoke project?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+EVOKE - An online alternate reality game supporting social innovation among young people around the world.
 
-### What you'll need
+Evoke is an award-winning, multi-player online educational experience, which uses storytelling, game mechanics, and social networks, to prepare young people to become social innovators who create solutions that address global ‘grand challenges’ (e.g., displacement, hunger, poverty, water scarcity). The Evoke project is designed to support young people as they develop an understanding of these complex challenges, acquire 21st century skills (e.g., creativity, collaboration, critical reflection), socio-emotional skills (e.g., curiosity, empathy, generosity), and gain the confidence to experiment, collaborate, and create innovative solutions. Conceived and coordinated by Robert Hawkins, EVOKE has been played in three languages by student groups in over 100 countries over the past seven years.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### History: versions and iterations
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+The original iteration of EVOKE, [URGENT EVOKE](https://urgentevoke.com/), launched at the [TED conference](https://www.cnn.com/2010/TECH/03/01/evoke.game.africa.poverty/) in early 2010 by co-creator and noted game designer [Jane McGonigal](https://en.wikipedia.org/wiki/Jane_McGonigal), generating [much](https://www.worldbank.org/en/topic/edutech/brief/evoke-an-online-alternate-reality-game-supporting-social-innovation-among-young-people-around-the-world#:~:text=McGonigal%2C%20generating-,much,-media%20interest%2C%20it) [media](https://www.huffingtonpost.com/dev-aujla/the-world-banks-gaming-pl_b_504113.html) [interest](https://www.worldbank.org/en/topic/edutech/brief/evoke-an-online-alternate-reality-game-supporting-social-innovation-among-young-people-around-the-world#:~:text=much%C2%A0media-,interest,-%2C%20it%20ran%20as), it ran as a 10-week "crash course in saving the world" from February through May. Geared for students across Africa, this first version of EVOKE was in English. It won a top [award](https://www.gamesforchange.org/festival2011/awards/direct-impact/evoke/) at the 8th Annual Games For Change Festival. ([view trailer](https://vimeo.com/9094186))
