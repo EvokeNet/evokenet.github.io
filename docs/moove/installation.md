@@ -8,14 +8,14 @@ On Evoke project we use Moove as main theme. There are two ways to install it, a
 
 **First way**
 
-- Clone this repository into the folder theme.
+- Clone this repository into the folder **theme**.
 - Access the notification area in moodle and install
 
 **Second way**
 
 - Download this repository
 - Extract the content
-- Put the folder into the folder theme of your moodle
+- Put the folder into the folder **theme** of your moodle
 - Access the notification area in moodle and install
 
 # Activation

@@ -8,14 +8,14 @@ No projeto Evoke usamos o Moove como o tema principal. Existem duas maneiras de 
 
 **Primeira maneira**
 
-- Clone o repositório do tema na pasta theme do seu Moodle
+- Clone o repositório do tema na pasta **theme** do seu Moodle
 - Acesse a áras de notificações no Moodle e prossiga com a instalação
 
 **Segunda maneira**
 
 - Faça o download do tema
 - Extraia o conteúdo do arquivo compactado
-- Mova a pasta para o diretório theme do seu Moodle
+- Mova a pasta para o diretório **theme** do seu Moodle
 - Acesse a áras de notificações no Moodle e prossiga com a instalação
 
 # Ativação

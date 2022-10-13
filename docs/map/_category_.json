@@ -1,0 +1,8 @@
+{
+  "label": "Block Map",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Block Missions Map."
+  }
+}
