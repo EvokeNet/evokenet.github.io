@@ -4,13 +4,13 @@ sidebar_position: 1
 
 # Intro
 
-Moove vem com uma série de configurações que permite a você customizar seu site Moodle.
+Moove comes with a number of settings that allow you to customize your Moodle site.
 
-Para acessar as configurações vá para Administração do site > Aparência > Temas > Moove.
+To access these settings go to `Site administration > Appearance > Themes > Moove`.
 
 ![Moove settings](/img/theme_moove/img1.png)
 
-Como pode ser visto na imagem acima, as configurações do tema são agrupadas em 4 abas:
+As you can see in the image above, the theme settings are grouped into 4 tabs:
 
 - [General](general)
 - [Advanced](advanced)
