@@ -8,8 +8,6 @@ Moodle presents the homepage in two scenarios, for guest users and for logged in
 
 Guest users can view an attractive page, like a hotsite, with the intention of presenting the institution, the courses, and some interesting information.
 
-A página para usuários logadas apresenta informações interessantes para o usuário já cadastrado no curso, exibindo apenas aquilo que o administrador configurar em
-
 The page for logged in users presents interesting information for the user already registered in the platform, displaying only what the administrator configures in
 
 `Site administration > General > Site home settings`

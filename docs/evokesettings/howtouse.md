@@ -10,7 +10,7 @@ To accomplish the challenge of flow and User Experience of Evoke, it was necessa
 
 Evoke courses can have extra settings, here we detail all of them.
 
-To access Evoke course settings, you need to navigate through the secondary menu and click on the More, and then in Evoke course settings.
+To access Evoke course settings, you need to navigate through the secondary menu and click on More, and then in Evoke course settings.
 
 ![Evoke course settings](/img/local_evokesettings/settings1.png)
 
