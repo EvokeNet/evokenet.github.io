@@ -91,7 +91,7 @@ Eg: If you select skills **Tech and Innovation** and set the value to **40**, al
 
 It is very easy to add badge criteria, you just need to choose your criteria and configure what is the reference value to achieve that.
 
-The most exciting Evoke feature is that is possible to combine the criterias, what is not possible with Moodle by default.
+**The most exciting Evoke feature is that is possible to combine the criterias, what is not possible with Moodle by default.**
 
 ![Evoke badges settings](/img/local_evokegame/game8.png)
 
