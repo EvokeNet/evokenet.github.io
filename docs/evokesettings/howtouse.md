@@ -26,31 +26,25 @@ Team chat|/mod/chat/view.php?id=2
 Course forum|/mod/forum/view.php?id=3
 ```
 
-### Evoke pages
+### Secondary top menu bar
 
-When we use an CMS like Wordpress it is very simple to create pages for our users, unfortunately Moodle doesn't have this feature easy and clearly. To handle that we create a feature called Evoke Pages.
+The secondary top menu bar is presented according to the user's permissions.
 
-To manage evoke pages you need to go to:
+#### Students view
 
-`Site administration > General > Evoke > Evoke pages`
+When a student is inside a course, they can see only these static menu items:
 
-![Evoke settings pages management](/img/local_evokesettings/settings2.png)
+- HQ: when the block HQ is present on the course
+- Map: when the block Map is present on the course
+- My progress: when the game is enabled in the course
+- Marketplace: when the game is enabled in the course
 
-Note you can create new pages, as you can view, edit or delete an existing one.
+If it was configured extra menu items, then they will be printed in the navigation, like the image below:
 
-When you click to create a new page, the following form is presented:
+![Extra menu items](/img/local_evokesettings/settings4.png)
 
-![Evoke settings page creation](/img/local_evokesettings/settings3.png)
+#### Teachers and site administrators view
 
-Here are all form fields explained:
+People who have permission to configure and edit the course will see different menu items, depending on their role and permissions.
 
-- **Page title:** The title of your page;
-- **Page slug:** The url of your page is composite by the page slug;
-- **Show on menu?:** If you choose YES, a link to the page will be created in the primary top navbar;
-- **Page content:** The HTML content of your page.
-
-### Redirect users to enroled course
-
-Users who are enroled in only one course are redirected direct to the course after login.
-
-Default Moodle behavior is to redirect these users to frontpage or my page. We removed this step and redirect the users direct to their course, saving up clicks and time, and making the platform more objective for the context of one course in use.
+![Administrator secondary menu items](/img/local_evokesettings/settings5.png)
