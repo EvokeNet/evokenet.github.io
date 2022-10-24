@@ -48,3 +48,9 @@ If it was configured extra menu items, then they will be printed in the navigati
 People who have permission to configure and edit the course will see different menu items, depending on their role and permissions.
 
 ![Administrator secondary menu items](/img/local_evokesettings/settings5.png)
+
+### Redirect users to enroled course
+
+Users who are enroled in only one course are redirected direct to the course after login.
+
+Default Moodle behavior is to redirect these users to frontpage or my page. We removed this step and redirect the users direct to their course, saving up clicks and time, and making the platform more objective for the context of one course in use.

@@ -22,7 +22,7 @@ In the HQ block settings, it is possible to add a custom link to redirect users 
 
 This block of the HQ redirects users to explore all portfolios of the current course.
 
-## Block HQ settings
+### Block HQ settings
 
 You can edit some settings of the HQ block by clicking in the cog menu, present on the top right side of the block.
 
@@ -31,3 +31,13 @@ You can edit some settings of the HQ block by clicking in the cog menu, present 
 ![Headquarters settings](/img/block_hq/hq2.png)
 
 As you can see in the above image, you can configure a custom name for the block and add a link for the Evokation.
+
+### Custom block images
+
+It is possible to change HQ block images, unfortunately, those images are global, so if you change an image, it will be modified on all courses that use the HQ block.
+
+To change an image you first need to go to `Site administration > Plugins > Blocks > Headquarters`.
+
+![Headquarters settings](/img/block_hq/hq3.png)
+
+Upload your desired custom images in the respective fields and they will be updated on all courses.

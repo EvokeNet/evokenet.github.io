@@ -24,9 +24,3 @@ Here are all form fields explained:
 - **Page slug:** The url of your page is composite by the page slug;
 - **Show on menu?:** If you choose YES, a link to the page will be created in the primary top navbar;
 - **Page content:** The HTML content of your page.
-
-### Redirect users to enroled course
-
-Users who are enroled in only one course are redirected direct to the course after login.
-
-Default Moodle behavior is to redirect these users to frontpage or my page. We removed this step and redirect the users direct to their course, saving up clicks and time, and making the platform more objective for the context of one course in use.
