@@ -50,7 +50,7 @@ The description of the badge.
 
 The image of the badge.
 
-### Badges criterias
+### Badges criteria
 
 Once created, you need to configure criteria to deliver badge. All students who accomplish the criteria will receive the badge.
 
@@ -87,11 +87,11 @@ Eg: If you select skills **Tech and Innovation** and set the value to **40**, al
 - User with 40 points of Tech and 0 points of Innovation receives badge.
 - User with 20 points of Tech and 19 points of Innovation, will not receive the badge.
 
-#### Configuring badge criterias
+#### Configuring badge criteria
 
 It is very easy to add badge criteria, you just need to choose your criteria and configure what is the reference value to achieve that.
 
-**The most exciting Evoke feature is that is possible to combine the criterias, what is not possible with Moodle by default.**
+**The most exciting Evoke feature is that is possible to combine the criteria, what is not possible with Moodle by default.**
 
 ![Evoke badges settings](/img/local_evokegame/game8.png)
 
