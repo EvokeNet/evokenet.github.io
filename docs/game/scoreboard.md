@@ -6,6 +6,10 @@ sidebar_position: 6
 
 ### Scoreboard info
 
-### Top 10
+This page displays the scoreboard with its prize title, finish date and image.
 
-### All
+![Evoke game scoreboard](/img/local_evokegame/game13.png)
+
+It is possible to view the top 10 users with more coins and another tab with all users.
+
+It is possible to view Evocoins, powers and badges of users of the scoreboard.
