@@ -9,6 +9,8 @@ This section will explain how to use the administrator console in order to
 know the important aspects and features in order to manage the users' data for the Evoke platform.
 
 
+
+
 ## Add users
 
 In order to create users for the Evoke client **first sign in to the administration console**,
@@ -52,6 +54,8 @@ the user once it logout, the last password they used won't work for login again.
 option. Click on the button **Set password** and with that the user is able to sign in. 
 
 
+
+
 ## Edit users
 
 In order to edit users, head to the users' list by browsing in the left side bar the section 
@@ -77,8 +81,7 @@ possibility of delete it if neccesary.
 
 ![img](./resources/users/reset-password.PNG)
 
-Now to reset password it is just required to fill the fields **Password** and **Password Confirmation**, disable the 
-**Temporary** slide button if it is enabled and click on the **Reset Password** button.
+Now to reset password it is just required to fill the fields **Password** and **Password Confirmation**, disable the **Temporary** slide button if it is enabled and click on the **Reset Password** button.
 
 ### Update user groups
 
@@ -94,6 +97,8 @@ group it is just required to search for the name of the group, can be done by ty
 search box or scrolling down the list below. Once the group is found it is just required to click the **Join** button.
 
 ![img](./resources/users/user-groups.PNG)
+
+
 
 
 ## Delete users

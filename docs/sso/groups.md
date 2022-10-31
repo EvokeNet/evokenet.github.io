@@ -7,6 +7,9 @@ sidebar_position: 3
 The groups in Keycloak are the teams in which Evoke agents are members, 
 Keycloak allows the possibility of creating a group and assign members in it. 
 
+
+
+
 ## Add groups
 
 In order to create a group for the Evoke client **first sign in to the administration console**,
